@@ -1,6 +1,6 @@
 /*HOMEPAGE */
 body{
-    background-color:rgb(251, 252, 196)
+    background-color:rgb(0, 0, 0)
 }
 
 /*NAV BAR*/
@@ -39,7 +39,7 @@ body{
 .homepage1 h1{
     font-size: 100px;
     font-family: "Poppins";
-    color:rgb(255, 255, 255) ;
+    color:rgb(0, 53, 11) ;
     text-align: center;
 }
 
