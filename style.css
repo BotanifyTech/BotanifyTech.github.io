@@ -51,14 +51,14 @@ body{
 }
 
 /*KEYS*/
-.keys h1{
+.homepage1 h2{
     font-size:70px;
     font-family: "Poppins";
     color:rgb(168, 255, 183) ;
     text-align: left;
 }
 
-.keys ul{
+.homepage1 ul{
     font-size: 30px;
     font-family: "Poppins";
     color:rgb(255, 255, 255) ;
