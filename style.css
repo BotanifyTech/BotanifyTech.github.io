@@ -1,13 +1,13 @@
 /*HOMEPAGE */
 body{
-    background-color:rgb(0, 0, 0)
+    background-color:rgb(254, 255, 201)
 }
 
 /*NAV BAR*/
 
 /* Add a black background color to the top navigation */
 .topnav {
-    background-color: #ffffff;
+    background-color: #003603;
     overflow: hidden;
   }
   
@@ -31,7 +31,7 @@ body{
   /* Add a color to the active/current link */
   .topnav a.active {
     background-color: #ffffff;
-    color: rgb(0, 0, 0);
+    color: rgb(165, 159, 159);
   }
 
   
@@ -46,7 +46,7 @@ body{
 .homepage1 p{
     font-size: 30px;
     font-family: "Poppins";
-    color:rgb(255, 255, 255) ;
+    color:rgb(0, 0, 0) ;
     text-align: center;
 }
 
@@ -54,14 +54,14 @@ body{
 .homepage1 h2{
     font-size:70px;
     font-family: "Poppins";
-    color:rgb(168, 255, 183) ;
+    color:rgb(0, 37, 6) ;
     text-align: left;
 }
 
 .homepage1 ul{
     font-size: 30px;
     font-family: "Poppins";
-    color:rgb(255, 255, 255) ;
+    color:rgb(0, 0, 0) ;
     text-align: left;
 
 }
