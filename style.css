@@ -38,14 +38,18 @@ body{
  
 .homepage1 h1{
     font-size: 100px;
-    font-family: "Poppins";
+    font-family: "Poppins", sans-serif;
+    font-weight: 800;
+    font-style:normal;
     color:rgb(0, 53, 11) ;
     text-align: center;
 }
 
 .homepage1 p{
     font-size: 30px;
-    font-family: "Poppins";
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style:normal;
     color:rgb(0, 0, 0) ;
     text-align: center;
 }
@@ -53,14 +57,18 @@ body{
 /*KEYS*/
 .homepage1 h2{
     font-size:70px;
-    font-family: "Poppins";
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
     color:rgb(0, 37, 6) ;
     text-align: left;
 }
 
 .homepage1 ul{
     font-size: 30px;
-    font-family: "Poppins";
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style:normal;
     color:rgb(0, 0, 0) ;
     text-align: left;
 
