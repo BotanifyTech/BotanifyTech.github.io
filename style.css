@@ -1,8 +1,31 @@
 
-h1.homepage1, p.homepage1 {
+h1{
     font-size: 100px;
-    font-family: Poppins;
-    color:black ;
+    font-family: "Courier New";
+    color:darkgreen ;
     text-align: "center";
 }
+
+p{
+    font-size: 50px;
+    font-family: "Courier New";
+    color:rgb(0, 0, 0) ;
+    text-align: "center";
+}
+
+h2{
+    font-size:70px;
+    font-family: "Courier New";
+    color:rgb(49, 133, 63) ;
+    text-align: "left";
+}
+
+ul{
+    font-size: 50px;
+    font-family: "Courier New";
+    color:rgb(0, 0, 0) ;
+    text-align: "left";
+
+}
+
 
