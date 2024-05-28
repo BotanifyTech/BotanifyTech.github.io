@@ -3,7 +3,7 @@
 
 /* Add a black background color to the top navigation */
 .topnav {
-    background-color: #003b19;
+    background-color: #ffffff;
     overflow: hidden;
   }
   
@@ -26,41 +26,42 @@
   
   /* Add a color to the active/current link */
   .topnav a.active {
-    background-color: #93ffae;
+    background-color: #ffffff;
     color: rgb(0, 0, 0);
   }
 
   
 /*HOMEPAGE */
 body{
-    background-color:rgb(255, 230, 192)
+    background-color:rgb(0, 46, 8)
 }
  
 .homepage1 h1{
     font-size: 100px;
     font-family: "Poppins";
-    color:rgb(0, 51, 0) ;
+    color:rgb(255, 255, 255) ;
     text-align: center;
 }
 
 .homepage1 p{
     font-size: 30px;
     font-family: "Poppins";
-    color:rgb(0, 0, 0) ;
+    color:rgb(255, 255, 255) ;
     text-align: center;
 }
 
-.homepage1 h2{
+/*KEYS*/
+.keys h2{
     font-size:70px;
     font-family: "Poppins";
-    color:rgb(76, 139, 86) ;
+    color:rgb(168, 255, 183) ;
     text-align: left;
 }
 
-.homepage1 ul{
+.keys ul{
     font-size: 30px;
     font-family: "Poppins";
-    color:rgb(0, 0, 0) ;
+    color:rgb(255, 255, 255) ;
     text-align: left;
 
 }
