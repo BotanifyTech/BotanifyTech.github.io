@@ -1,6 +1,12 @@
 /*HOMEPAGE */
 body{
-    background-color:rgb(254, 255, 201)
+    background-color: #000;
+    color: #fff;
+    min-height: 100vh;
+    display: grid;
+    place-items: center;
+    perspective: 500px;
+    perspective-origin: 50% calc(50% - 150px);
 }
 
 .scene {
@@ -30,7 +36,7 @@ body{
   .panel::before {
     position: absolute;
     left: var(--left);
-    content: "Hello World, it's a nice day!";
+    content: "Botanify Tech";
     font-size: 96px;
     width: max-content;
     color: hsl(var(--hue), 75%, 75%);
